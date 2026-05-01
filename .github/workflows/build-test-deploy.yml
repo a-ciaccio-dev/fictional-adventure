@@ -3,7 +3,7 @@ name: build-test-deploy
 on: push
 
 jobs:
-  builds:
+  build:
     runs-on: windows-latest
 
     steps:
